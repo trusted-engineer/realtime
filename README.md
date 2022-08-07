@@ -1,2 +1,2 @@
-# realtime
-realtime app test
+# Realtime
+Real-time web app test.
